@@ -1,0 +1,18 @@
+/* Selectors */
+/* Element (Tag) Selectors */
+body {
+    background-color: beige
+}
+h1 {
+    color: red
+}
+
+p {
+    color: blue
+}
+.intro-p {
+    color: blue
+}
+.description-p {
+    color: green
+}
