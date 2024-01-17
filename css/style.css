@@ -1,6 +1,6 @@
 /* Selectors */
 /* Element (Tag) Selectors */
-/* ID is more important than ID and elements */
+/* ID is more important than class and elements */
 body {
     background-color: beige
 }
@@ -17,6 +17,6 @@ p {
 .description-p {
     color: green
 }
-.main-paragraph {
+#main-paragraph {
     color: purple
 }
